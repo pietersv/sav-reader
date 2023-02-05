@@ -1,5 +1,6 @@
-dist
+dist/test
 test-data
 node_modules
 /*.tgz
+.idea
 

@@ -99,6 +99,12 @@ console.log(sav.meta);
 
 ```
 
+## Read an input stream
+```js
+import {SavReader} from "sav-reader"
+const readable = fs.createReadStream("../")
+
+```
 
 
 ## Read the data records (all at once)
